@@ -52,5 +52,4 @@ CREATE TABLE student_info (
 - **No Output Before Headers**: Ensures redirects work correctly.
 
 ## Notes
-- This is a basic educational CRUD app. For production, use prepared statements and more robust authentication/authorization.
 - The UI uses Bootstrap 5 for a modern look.
